@@ -1,7 +1,7 @@
 # pyber_analysis
 
 ## Overview
-The purpose of our analysis is to gather our statistics based on the city type.
+The purpose of our analysis is to gather our statistics based on the city type and provide business recommendations based on city type.
 
 ## Results
 ![Summary Data Frame](https://github.com/lgconsult/pyber_analysis/blob/main/pyber%20summary%20dataframe.png)
